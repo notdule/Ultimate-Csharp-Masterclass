@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\MyCode\Todo List\Calculator\obj\Debug\net8.0\ref\Calculator.dll
