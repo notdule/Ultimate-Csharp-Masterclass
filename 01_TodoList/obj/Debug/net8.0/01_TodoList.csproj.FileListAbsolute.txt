@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net8.0\01_TodoList.exe
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net8.0\01_TodoList.deps.json
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net8.0\01_TodoList.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net8.0\01_TodoList.dll
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\bin\Debug\net8.0\01_TodoList.pdb
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.dll
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\refint\01_TodoList.dll
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.pdb
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\01_TodoList.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\01_TodoList\obj\Debug\net8.0\ref\01_TodoList.dll
