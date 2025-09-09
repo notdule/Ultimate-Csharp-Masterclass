@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\bin\Debug\net8.0\02_DiceRollGame.exe
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\bin\Debug\net8.0\02_DiceRollGame.deps.json
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\bin\Debug\net8.0\02_DiceRollGame.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\bin\Debug\net8.0\02_DiceRollGame.dll
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\bin\Debug\net8.0\02_DiceRollGame.pdb
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.dll
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\refint\02_DiceRollGame.dll
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.pdb
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\02_DiceRollGame.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\02_DiceRollGame\obj\Debug\net8.0\ref\02_DiceRollGame.dll
