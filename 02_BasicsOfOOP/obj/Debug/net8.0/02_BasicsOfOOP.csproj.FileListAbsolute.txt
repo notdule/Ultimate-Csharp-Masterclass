@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\bin\Debug\net8.0\02_BasicsOfOOP.exe
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\bin\Debug\net8.0\02_BasicsOfOOP.deps.json
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\bin\Debug\net8.0\02_BasicsOfOOP.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\bin\Debug\net8.0\02_BasicsOfOOP.dll
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\bin\Debug\net8.0\02_BasicsOfOOP.pdb
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.dll
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\refint\02_BasicsOfOOP.dll
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.pdb
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\02_BasicsOfOOP.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\02_BasicsOfOOP\obj\Debug\net8.0\ref\02_BasicsOfOOP.dll
