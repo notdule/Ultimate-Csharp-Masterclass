@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\bin\Debug\net8.0\02_NamesAfterRefactorToSRP.exe
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\bin\Debug\net8.0\02_NamesAfterRefactorToSRP.deps.json
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\bin\Debug\net8.0\02_NamesAfterRefactorToSRP.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\bin\Debug\net8.0\02_NamesAfterRefactorToSRP.dll
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\bin\Debug\net8.0\02_NamesAfterRefactorToSRP.pdb
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.dll
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\refint\02_NamesAfterRefactorToSRP.dll
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.pdb
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\02_NamesAfterRefactorToSRP.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\02_NamesAfterRefactorToSRP\obj\Debug\net8.0\ref\02_NamesAfterRefactorToSRP.dll
