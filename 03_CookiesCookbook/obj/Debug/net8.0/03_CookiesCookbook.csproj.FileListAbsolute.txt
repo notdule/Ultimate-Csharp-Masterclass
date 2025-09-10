@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.exe
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.deps.json
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.dll
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.pdb
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.dll
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\refint\03_CookiesCookbook.dll
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.pdb
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\03_CookiesCookbook\obj\Debug\net8.0\ref\03_CookiesCookbook.dll
