@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\bin\Debug\net8.0\04_Exceptions.exe
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\bin\Debug\net8.0\04_Exceptions.deps.json
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\bin\Debug\net8.0\04_Exceptions.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\bin\Debug\net8.0\04_Exceptions.dll
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\bin\Debug\net8.0\04_Exceptions.pdb
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.dll
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\refint\04_Exceptions.dll
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.pdb
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\04_Exceptions.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\04_Exceptions\obj\Debug\net8.0\ref\04_Exceptions.dll
