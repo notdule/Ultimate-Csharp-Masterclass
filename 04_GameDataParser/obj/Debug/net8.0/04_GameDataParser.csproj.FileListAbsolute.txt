@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\bin\Debug\net8.0\04_GameDataParser.exe
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\bin\Debug\net8.0\04_GameDataParser.deps.json
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\bin\Debug\net8.0\04_GameDataParser.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\bin\Debug\net8.0\04_GameDataParser.dll
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\bin\Debug\net8.0\04_GameDataParser.pdb
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.dll
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\refint\04_GameDataParser.dll
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.pdb
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\04_GameDataParser.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\04_GameDataParser\obj\Debug\net8.0\ref\04_GameDataParser.dll
