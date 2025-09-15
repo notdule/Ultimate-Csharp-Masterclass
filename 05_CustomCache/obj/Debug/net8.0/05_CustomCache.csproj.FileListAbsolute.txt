@@ -1,0 +1,14 @@
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.AssemblyInfoInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.AssemblyInfo.cs
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.csproj.CoreCompileInputs.cache
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\bin\Debug\net8.0\05_CustomCache.exe
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\bin\Debug\net8.0\05_CustomCache.deps.json
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\bin\Debug\net8.0\05_CustomCache.runtimeconfig.json
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\bin\Debug\net8.0\05_CustomCache.dll
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\bin\Debug\net8.0\05_CustomCache.pdb
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.dll
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\refint\05_CustomCache.dll
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.pdb
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\05_CustomCache.genruntimeconfig.cache
+D:\Code\UltimateCSharpMasterclass-main\05_CustomCache\obj\Debug\net8.0\ref\05_CustomCache.dll
